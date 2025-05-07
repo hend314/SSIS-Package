@@ -1,0 +1,44 @@
+# Visual Studio temporary files and folders
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dtproj.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.log
+*.ispac
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup and cache
+*.cache
+*.tmp
+*.bak
+
+# Source control bindings
+*.vssscc
+*.vspscc
+*.scc
+$tf/
+
+# Database and debug files
+*.pdb
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.dbmdl
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.sap
